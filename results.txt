@@ -1,0 +1,1 @@
+22:56:27 UP 8.8.8.8 Ping Successful
